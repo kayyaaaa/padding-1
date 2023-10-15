@@ -1,0 +1,16 @@
+.p{
+    border: 1px solid #F00;
+    background: #F9DFDF;  
+    width: 550px;
+    height: 550px;
+    flex-shrink: 0; 
+    color: #F00;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top:71px ;
+    padding-left:95px ;
+}
